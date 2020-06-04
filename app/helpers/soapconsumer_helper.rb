@@ -1,0 +1,2 @@
+module SoapconsumerHelper
+end
